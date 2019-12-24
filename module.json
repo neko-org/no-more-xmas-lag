@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "no-more-xmas-lag",
+    "author": "Neko",
+    "description": "removes xmas stuff in highwatch",
+    "version": "24.12.2019",
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/no-more-xmas-lag/master/"],
+    "options": {
+        "niceName": "no-more-xmas-lag",
+        "guiName": "no-more-xmas-lag",
+        "reloadable": true
+    },
+    "dependencies": {},
+    "conflicts": []
+}

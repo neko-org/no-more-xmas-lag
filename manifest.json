@@ -1,0 +1,9 @@
+{
+    "files": {
+        "index.js": "84713b84f9e015b68c2f09d70692ad8b5202e4969e3e191e3bc3112c7ed2c84f",
+        "module.json": "b3e64993b018e5dbceead2ac0c9135c3a7a04c0e58cb8a5e2b25727204ea5028"
+    },
+    "defs": {
+        "S_SPAWN_NPC": 11
+    }
+}
